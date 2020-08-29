@@ -149,3 +149,38 @@ a. Lack of data shows the concern of the people to the Safety issue of IL
 1. ORG: Navy, NYPD, FBI, NAACP, New York Times
 2. NORP: American, African American, Jews, Hispanics
 3. Person: Ilhan Omar(US Representative), D'Adrien Anderson and a lot of victim name of the local murder cases
+
+
+## Conclusion
+### Key reasons for the declining population
+1. Public Health Issues during Pandemic(Lack of testing
+for Covid-19)
+2. Violence in the south side of chicago
+3. Covid-19 is destroying African American Community
+4. Progressive income tax
+5. Some of the Chicago police are racist toward black
+people
+6. Cold weather
+7. Declining birth rates
+8. Long-standing Economic discrimination against black
+residents
+9. High Housing Costs
+10. Lack of middle class jobs
+
+
+## Recommendations
+1. How the city / state can attract new businesses
+* a. Lack of middle class jobs can be improved by bring
+manufacturing company back to IL
+* ab. Give more government funding for the south Chicago
+to make it a safer place to attract business
+* ac. Support family with more that 2 children
+* ad. Decrease the business tax
+2. Why businesses should stay in IL or move into IL?
+* aa. They should stay in IL because Chicago is the world
+famous financial harbor and there is a lot of
+opportunities
+3. Whey residents should stay in IL or move into IL?
+* aa. Resident should stay in IL because the governor can
+major have a good fame among local residents and
+they are standing on the side of people
