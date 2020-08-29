@@ -31,7 +31,7 @@ using regex
 1. Use Lemmatization to get the most common words in the news
 
 2. Use textList.concordance get the insight of some sample articles
-  a. It shows that the word ‘black’ comes around population quite often
+  * a. It shows that the word ‘black’ comes around population quite often
   b. Black population increase or decrease might be an important factor
 3. Use N-gram to find contiguous sequence of n items from a given sample of text or speech
   a. Help us to get the idea of the context
