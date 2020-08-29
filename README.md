@@ -36,14 +36,30 @@ using regex
 3. Use N-gram to find contiguous sequence of n items from a given sample of text or speech
   * a. Help us to get the idea of the context
   * b. n=2, top 5: Public health, Cook County, Pritzker Said, New York, Health Care
-    i. Public health has been a hot topic for the past couple of months
-    ii. Governor Pritzker plays a very important rule
+    * i. Public health has been a hot topic for the past couple of months
+    * ii. Governor Pritzker plays a very important rule
   * c. n=3, top 5: Depart public health, Mayor lori lightfoot, illinois department public, cook county jail, chicago mayor lori
-    i. Cook county jail rings an alert that maybe the criminal issues could be one of the reason people leave
+    * i. Cook county jail rings an alert that maybe the criminal issues could be one of the reason people leave
   * d. Target N-gram by using population as the key word
-    i. n=3 Top 5: county population census, significant percentage population, percentage population underserved, population underserved christmas, jail population dropped
-    ii. It shows that Chicago is a city that have a diverse group of people,
-    iii. Due to covid the jail population has dropped
+    * i. n=3 Top 5: county population census, significant percentage population, percentage population underserved, population underserved christmas, jail population dropped
+    * ii. It shows that Chicago is a city that have a diverse group of people,
+    * iii. Due to covid the jail population has dropped
 
-
+## Sentiment Analysis
+1. Separate dataset to positive sentiment and negative sentiment
+* a. Positive sentiment Analyse helps to demonstrate why people want to move in
+  * i. For example:Illinois is a beautiful place, University of Chicago is the most
+famous school in Chicago, St. Patrick's Day celebration is amazing, illinois
+ranks the 26th best states for elderly Americans
+* b. Negative sentiment Analysis helps to demonstrate why people want to move
+out
+  * i. For Example: Violence in the south side of chicago, Covid-19 is
+destroying African American Community, Does not have enough covid
+testing, progressive income tax, Chicago police
+  * ii. One specific topic came out of the analysis is specifically talking about
+population decline problem in Chicago(Article title: ‘Illinois saw nation’s
+worst population loss during the decade’), after did similar word analysis
+on the specific text, it turns out that people do not have confidence in the
+economy and a lot of people have really high debt. Those could be of the
+reason they move out of the city.
 
