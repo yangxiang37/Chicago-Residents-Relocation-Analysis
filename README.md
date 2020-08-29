@@ -12,6 +12,7 @@ month and the lack of testing is driving people leaving the
 city. Also, state’s high taxes and its unfunded pension
 liability, lack of investment in education and infrastructure
 are also the major factors that make people leave Illinois.
+
 So what can government to do to make people love to live
 in Illinois again? I will walk you thought this project and
 draw the conclusion at the end of the project.
