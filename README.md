@@ -27,3 +27,22 @@ the analysis process
 remove stopwords,
 punctuation, number by
 using regex
+## Detect Major topics
+1. Use Lemmatization to get the most common words in the news
+a. Result include
+b. It shows
+2. Use textList.concordance get the insight of some sample articles
+a. It shows that the word ‘black’ comes around population quite often
+b. Black population increase or decrease might be an important factor
+3. Use N-gram to find contiguous sequence of n items from a given sample of text or speech
+a. Help us to get the idea of the context
+b. n=2, top 5: Public health, Cook County, Pritzker Said, New York, Health Care
+i. Public health has been a hot topic for the past couple of months
+ii. Governor Pritzker plays a very important rule
+c. n=3, top 5: Depart public health, Mayor lori lightfoot, illinois department public, cook county jail, chicago mayor lori
+i. Cook county jail rings an alert that maybe the criminal issues could be one of the reason people leave
+d. Target N-gram by using population as the key word
+i. n=3 Top 5: county population census, significant percentage population, percentage population underserved,
+population underserved christmas, jail population dropped
+ii. It shows that Chicago is a city that have a diverse group of people,
+iii. Due to covid the jail population has dropped
