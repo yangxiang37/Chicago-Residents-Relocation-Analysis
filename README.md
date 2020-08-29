@@ -16,3 +16,14 @@ are also the major factors that make people leave Illinois.
 So what can government to do to make people love to live
 in Illinois again? I will walk you thought this project and
 draw the conclusion at the end of the project.
+## Data Preparation
+1. Only extract the dataset
+that related with the
+population issues
+2. Isolate the different
+sentiment in the middle of
+the analysis process
+3. Convert to lower case,
+remove stopwords,
+punctuation, number by
+using regex
